@@ -1,0 +1,35 @@
+{
+    "name": "crypto_hub",
+    "short_name": "crypto_hub",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#hexcode",
+    "theme_color": "#hexcode",
+    "description": "A project for real-time pricing and market activity for over 1,000 cryptocurrencies. Its build using Flutter, Coincap API, GetX state-management.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
